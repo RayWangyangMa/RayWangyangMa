@@ -18,6 +18,10 @@ Seven calculator sites for home and vehicle costs. Shared engine, separate domai
 
 Regional pricing is derived from BLS wage data rather than guessed, which is most of the work.
 
+### Tools
+
+**[gsc-weekly-brief](https://github.com/RayWangyangMa/gsc-weekly-brief)** — the Monday-morning automation behind the sites above. Pulls every Search Console property through the API, keeps the history Search Console itself throws away, diffs the last two pulls, and writes one short brief that flags only the pages actually worth acting on. Live-checks each candidate first, because "great position, lots of impressions" is bad advice when the URL is a 404.
+
 ### Open source
 
 **[openclaw/openclaw](https://github.com/openclaw/openclaw)** — [#134780](https://github.com/openclaw/openclaw/pull/134780)
