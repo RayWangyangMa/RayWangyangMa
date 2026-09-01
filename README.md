@@ -28,4 +28,4 @@ The plugin registry kept reporting `source-changed` drift against plugins that h
 
 Off the clock I run a self-hosted home stack — a control dashboard, 3D printer automation, and a small pile of devices that talk to each other more than they strictly need to.
 
-[rayma.ca](https://rayma.ca)
+[rayma.ca](https://rayma.ca) · [LinkedIn](https://www.linkedin.com/in/ray-wangyang-ma/)
