@@ -24,9 +24,11 @@ Regional pricing is derived from BLS wage data rather than guessed, which is mos
 
 ### Open source
 
-**[openclaw/openclaw](https://github.com/openclaw/openclaw)** — [#134780](https://github.com/openclaw/openclaw/pull/134780)
+Merged into **[openclaw/openclaw](https://github.com/openclaw/openclaw)**:
 
-The plugin registry kept reporting `source-changed` drift against plugins that had not changed. Two equivalent record shapes normalized differently, so a strict comparison never matched. Fixed the normalizer and reproduced the whole thing end to end against a real CLI; the maintainer took the same fix further into the inventory fingerprint cache.
+**[#135516](https://github.com/openclaw/openclaw/pull/135516)** — cron failure alerts fired and forgot. The send's outcome was never written back, so `cron get` answered `unknown` forever and a broken alerting path was invisible — the one place you least want silence. The settled result is now committed back to the live job (delivered, or not-delivered with a redacted reason), guarded against sibling services on the same store and against writes SQLite refused. Proven both ways against a real gateway.
+
+**[#134780](https://github.com/openclaw/openclaw/pull/134780)** — the plugin registry kept reporting `source-changed` drift against plugins that had not changed. Two equivalent record shapes normalized differently, so a strict comparison never matched. Fixed the normalizer and reproduced the whole thing end to end against a real CLI; the maintainer took the same fix further into the inventory fingerprint cache.
 
 ### Elsewhere
 
