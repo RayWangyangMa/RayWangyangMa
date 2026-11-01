@@ -83,8 +83,8 @@ Merged into **[openclaw/openclaw](https://github.com/openclaw/openclaw)**:
 ## 📈 Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-beige-five-91.vercel.app/api?username=RayWangyangMa&show_icons=true&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&bg_color=0D1117&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues&show=prs_merged&hide_rank=true" />
-  <img height="170" src="https://github-readme-stats-beige-five-91.vercel.app/api/top-langs/?username=RayWangyangMa&layout=compact&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&bg_color=0D1117&hide_border=true&langs_count=6&hide=java,c,asp.net,html,css&exclude_repo=Game-Dragon-Invasion,Pawsitively,PersonalSite" />
+  <img height="170" src="https://github-readme-stats-beige-five-91.vercel.app/api?username=RayWangyangMa&show_icons=true&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&bg_color=0D1117&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues&show=prs_merged&hide_rank=true&disable_animations=true" />
+  <img height="170" src="https://github-readme-stats-beige-five-91.vercel.app/api/top-langs/?username=RayWangyangMa&layout=compact&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&bg_color=0D1117&hide_border=true&langs_count=6&hide=java,c,asp.net,html,css&exclude_repo=Game-Dragon-Invasion,Pawsitively,PersonalSite&disable_animations=true" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=RayWangyangMa&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&sideNums=A78BFA&sideLabels=C9D1D9&dates=8B949E&stroke=30363D&hide_current_streak=true&disable_animations=true" />
   <br/><br/>
