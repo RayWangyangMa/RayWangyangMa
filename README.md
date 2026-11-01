@@ -80,7 +80,7 @@ Merged into **[openclaw/openclaw](https://github.com/openclaw/openclaw)**:
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RayWangyangMa&theme=aura" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RayWangyangMa&theme=aura" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=RayWangyangMa&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&sideNums=A78BFA&sideLabels=C9D1D9&dates=8B949E&stroke=30363D&hide_current_streak=true" />
+  <img src="https://streak-stats.demolab.com?user=RayWangyangMa&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&sideNums=A78BFA&sideLabels=C9D1D9&dates=8B949E&stroke=30363D&hide_current_streak=true&disable_animations=true" />
   <br/><br/>
   <!-- generated daily by .github/workflows/snake.yml into the `output` branch -->
   <img src="https://raw.githubusercontent.com/RayWangyangMa/RayWangyangMa/output/snake-dark.svg" width="100%" alt="contribution snake" />
